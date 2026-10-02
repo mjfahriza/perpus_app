@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h2>APLIKASI PENGELOLAAN PERPUSTAKAAN</h2>
+    <h2>WEB PENGELOLAAN PERPUSTAKAAN</h2>
     
     <div class="menu-box-container">
         
